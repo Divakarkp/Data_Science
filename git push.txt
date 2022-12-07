@@ -1,0 +1,20 @@
+to make local directory to remove 
+
+git init
+
+to add files to remote directory
+
+git add .
+
+
+to commit 
+
+git commit -m "Your message"
+
+to link remote 
+
+git remote add origin <link>
+
+to push 
+
+git push origin master
